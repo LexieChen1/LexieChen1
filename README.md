@@ -5,6 +5,8 @@ CS + Data Science @ UVA | Software Engineer | Lifelong Learner 🌱
 
 ---
 
+Hi, I'm Lexie 🐣
+
 ### 💫 About Me
 
 - 🔭 Currently building: AI Habit Tracker, Resume Optimizer
