@@ -1,5 +1,4 @@
-<img align="center" src="[https://capsule-render.vercel.app/api](https://github.com/LexieChen1/LexieChen1/blob/main/IMG_0123.HEIC)?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Lexie%20👩‍💻&fontSize=40&fontColor=ffffff" />
-
+<img align="center" src="https://raw.githubusercontent.com/LexieChen1/LexieChen1/main/banner.png" width="100%" />
 <p align="center">
 CS + Data Science @ UVA | Software Engineer | Lifelong Learner 🌱  
 </p>
