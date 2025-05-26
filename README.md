@@ -1,7 +1,13 @@
 <img align="center" src="https://github.com/LexieChen1/LexieChen1/blob/main/background.jpg" width="100%" />
 <p align="center">
+
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/{LexieChen1}/count.svg" alt="Visitor's Count" />
+</div>
 CS + Data Science @ UVA | Software Engineer | Lifelong Learner 🌱  
 </p>
+
 
 ---
 
