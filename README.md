@@ -17,10 +17,9 @@ Hi, I'm Lexie 🐣
 
 ### 💫 About Me
 
-- 🔭 Currently building: AI Habit Tracker, Resume Optimizer
-- 🌱 Learning: React, Docker, Distributed Systems
-- ⚡ Fun fact: I once moved across the country for 7 weeks just to study coding with my cat
-- 💬 Ask me about full-stack dev, machine learning, or managing time in Notion
+- 🔭 Currently building: AI Habit Tracker, Realtime Chat App
+- 🌱 Learning: React.js, Docker, Distributed Systems
+- ⚡ Fun fact: I can always find a parking space 
 
 ---
 
@@ -39,9 +38,6 @@ Hi, I'm Lexie 🐣
 
 - 🐱 [**AI Habit Tracker**](#)  
   An interactive health tracker with cat-themed rewards and GPT-powered suggestions
-
-- 📄 [**Resume Optimizer**](#)  
-  Uses LLMs to score and tailor resumes based on job descriptions
 
 - 💬 [**Chat App with Image Generation**](#)  
   Real-time messaging with DALL·E API and secure WebSocket backend
