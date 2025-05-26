@@ -1,6 +1,57 @@
-Hi there 👋 I'm Lexie!
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20I'm%20Lexie%20👩‍💻&fontSize=40&fontColor=ffffff" />
 
-- 🧠 CS + Data Science @ UVA | Aspiring SWE  
-- 💻 Currently building: AI habit tracker, Resume optimizer  
-- 📚 Learning: React, Docker, Distributed Systems  
-- 🧘 Outside code: Cooking, journaling, self-growth  
+<p align="center">
+CS + Data Science @ UVA | Software Engineer | Lifelong Learner 🌱  
+</p>
+
+---
+
+### 💫 About Me
+
+- 🔭 Currently building: AI Habit Tracker, Resume Optimizer
+- 🌱 Learning: React, Docker, Distributed Systems
+- ⚡ Fun fact: I once moved across the country for 7 weeks just to study coding with my cat
+- 💬 Ask me about full-stack dev, machine learning, or managing time in Notion
+
+---
+
+### 🚀 Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 🧠 Featured Projects
+
+- 🐱 [**AI Habit Tracker**](#)  
+  An interactive health tracker with cat-themed rewards and GPT-powered suggestions
+
+- 📄 [**Resume Optimizer**](#)  
+  Uses LLMs to score and tailor resumes based on job descriptions
+
+- 💬 [**Chat App with Image Generation**](#)  
+  Real-time messaging with DALL·E API and secure WebSocket backend
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=LexieChen1&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LexieChen1&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 📫 Let’s Connect
+
+- 📬 Email: dkt4kr@virginia.edu  
+- 💼 [LinkedIn](https://www.linkedin.com/in/lexiechen---/)  
+- 🌐 [Portfolio]
+
+---
