@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/LexieChen1/LexieChen1/main/banner.png" width="100%" />
+<img align="center" src="https://github.com/LexieChen1/LexieChen1/blob/main/background.jpg" width="100%" />
 <p align="center">
 CS + Data Science @ UVA | Software Engineer | Lifelong Learner 🌱  
 </p>
