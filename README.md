@@ -21,8 +21,8 @@ Hi, I'm Lexie 🐣
 
 ### 💫 About Me
 
-- 🔭 Currently building: AI Habit Tracker, Realtime Chat App
-- 🌱 Learning: React.js, Docker, Distributed Systems
+- 🔭 Currently building: Real-time translation chat web app, PhotoCut journal app, Choremate App (splitting chores among roommates), GameOn App (fair bill splitting platform)
+- 🌱 Learning: Distributed Systems, Cloud
 - ⚡ Fun fact: I can always find a parking space 
 
 ---
@@ -43,7 +43,7 @@ Hi, I'm Lexie 🐣
 - 🐱 [**AI Habit Tracker**](#)  
   An interactive health tracker with cat-themed rewards and GPT-powered suggestions
 
-- 💬 [**Chat App with Image Generation**](#)  
+- 💬 [**Chat App with Image Upload and Translation **](#)  
   Real-time messaging with DALL·E API and secure WebSocket backend
 
 ---
