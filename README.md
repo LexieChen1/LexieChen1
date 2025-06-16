@@ -46,7 +46,7 @@ Personal Portfolio:
 - [**Chat App with Image Upload and Translation**](#)  
   Real-time messaging with DALL·E API and secure WebSocket backend
 
-- [**GameOn**](#)
+- [**GameOn**](#)  
   A full-stack web application that helps friend groups split bills from trips, dining out, and shared expenses with ease. Features   include smart bill splitting, financial tracking, and personalized spending summaries
 ---
 
