@@ -43,7 +43,7 @@ Personal Portfolio:
 - [**ChoreMate**](#)  
  A full-stack web application that makes chore sharing among roommates more efficient with task assignments, reminders, and a reward system
 
-- [**Chat App with Image Upload and Translation **](#)  
+- [**Chat App with Image Upload and Translation**](#)  
   Real-time messaging with DALL·E API and secure WebSocket backend
 
 - [**GameOn**](#)
