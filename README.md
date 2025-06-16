@@ -22,7 +22,7 @@ Hi, I'm Lexie 🐣
 ### 💫 About Me
 Personal Portfolio: 
 
-- 🌱 Learning: Distributed Systems, Cloud
+- 🌱 Learning: Distributed Systems, Cloud Computing
 - ⚡ Fun fact: I can always find a parking space 
 
 ---
