@@ -22,7 +22,6 @@ Hi, I'm Lexie 🐣
 ### 💫 About Me
 Personal Portfolio: 
 
-- 🔭 Currently building: Real-time translation chat web app, PhotoCut journal app, Choremate App (splitting chores among roommates), GameOn App (fair bill splitting platform)
 - 🌱 Learning: Distributed Systems, Cloud
 - ⚡ Fun fact: I can always find a parking space 
 
