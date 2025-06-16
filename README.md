@@ -41,12 +41,14 @@ Personal Portfolio:
 
 ### 🧠 Featured Projects
 
-- 🐱 [**AI Habit Tracker**](#)  
-  An interactive health tracker with cat-themed rewards and GPT-powered suggestions
+- [**ChoreMate**](#)  
+ A full-stack web application that makes chore sharing among roommates more efficient with task assignments, reminders, and a reward system
 
-- 💬 [**Chat App with Image Upload and Translation **](#)  
+- [**Chat App with Image Upload and Translation **](#)  
   Real-time messaging with DALL·E API and secure WebSocket backend
 
+- [**GameOn**](#)
+  A full-stack web application that helps friend groups split bills from trips, dining out, and shared expenses with ease. Features include smart bill splitting, financial tracking, and personalized spending summaries
 ---
 
 ### 📫 Let’s Connect
