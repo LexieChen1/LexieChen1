@@ -7,10 +7,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=FFFFFF&duration=4000&lines=Hi+There!+👋;+I'm+Lexie+Chen!;" />
 </h1>
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{LexieChen1}/count.svg" alt="Visitor's Count" />
-</div>
 CS + Data Science @ UVA | Software Engineer | Lifelong Learner 🌱  
 </p>
 
